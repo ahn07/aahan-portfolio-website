@@ -114,7 +114,7 @@ export default function Portfolio() {
         "Modern e-commerce furniture platform with AI-powered product recommendations, interactive 3D product displays, and seamless checkout experience. Built with cutting-edge web technologies.",
       tech: ["Next.js", "Tailwind CSS", "Express.js", "MongoDB", "AI Integration"],
       link: "https://www.homeshapers.co",
-      github: "https://github.com/solankiaahan/homeshapers",
+      github: "https://github.com/aahan078/homeshapers",
       date: "Jun 2023",
     },
     {
@@ -123,7 +123,7 @@ export default function Portfolio() {
         "Comprehensive travel platform featuring real-time flight tracking, smart itinerary planning, and personalized accommodation recommendations powered by multiple travel APIs.",
       tech: ["Next.js", "Tailwind CSS", "Travel APIs", "Real-time Data"],
       link: "https://gate8.travel",
-      github: "https://github.com/solankiaahan/gate8-travel",
+      github: "https://github.com/aahan078/gate8-travel",
       date: "Aug 2023",
     },
     {
@@ -132,7 +132,7 @@ export default function Portfolio() {
         "Advanced school management system with role-based authentication, student progress tracking, and automated report generation. Features intuitive dashboards for all user types.",
       tech: ["ReactJS", "Bootstrap", "CSS3", "Metronics", "Role Management"],
       link: "https://manjushanetwork.com",
-      github: "https://github.com/solankiaahan/schoolcard-system",
+      github: "https://github.com/aahan078/schoolcard-system",
       date: "Feb 2024",
     },
     {
@@ -141,7 +141,7 @@ export default function Portfolio() {
         "Revolutionary AI-powered property search platform leveraging OpenAI for intelligent property matching, market analysis, and personalized investment recommendations.",
       tech: ["Next.js", "Tailwind CSS", "ShadCN UI", "OpenAI API", "Machine Learning"],
       link: "https://property-ai-webapp-frontend.vercel.app",
-      github: "https://github.com/solankiaahan/property-ai-webapp",
+      github: "https://github.com/aahan078/property-ai-webapp",
       date: "Oct 2024",
     },
     {
@@ -150,7 +150,7 @@ export default function Portfolio() {
         "The Velox Payment App provides International Money Transfer, Multi-Currency Wallet, and Bills Payment services. I developed the Admin Portal, a centralized platform to monitor and configure services.",
       tech: ["React.js", "Node.js", "Payment APIs", "Admin Dashboard", "Multi-Currency"],
       link: "https://dev.admin.veloxpayments.co/",
-      github: "https://github.com/solankiaahan/velox-payment-admin",
+      github: "https://github.com/aahan078/velox-payment-admin",
       date: "Nov 2024",
     },
     {
@@ -159,7 +159,7 @@ export default function Portfolio() {
         "Revolutionary freelance marketplace connecting businesses with top-tier developers worldwide. Features intelligent talent matching, integrated testing modules with timer functionality, and streamlined project management. Built with modern UI components for seamless user experience.",
       tech: ["Next.js", "Tailwind CSS", "ShadCN UI", "Testing Module", "Timer System"],
       link: "https://gphdev.vercel.app/",
-      github: "https://github.com/solankiaahan/freelancers-per-hour",
+      github: "https://github.com/aahan078/freelancers-per-hour",
       date: "May 2025",
     },
   ]
@@ -616,7 +616,7 @@ export default function Portfolio() {
                     </div>
                     <div>
                       <p className="font-medium text-foreground">GitHub</p>
-                      <p className="text-muted-foreground">github.com/solankiaahan</p>
+                      <p className="text-muted-foreground">github.com/aahan078</p>
                     </div>
                   </motion.div>
                 </div>
